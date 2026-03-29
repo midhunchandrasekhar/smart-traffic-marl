@@ -139,11 +139,17 @@ Although motivated by UAE-specific challenges, the proposed framework is applica
 ## 📊 Current Status of the Project
 
 - ✅ Simulation environment developed  
-- ✅ Multi-agent learning model implemented  
-- ✅ Baseline vs AI comparison established  
+- ✅ Baseline (fixed-time signal control) system implemented  
+- ✅ Traffic modeling and evaluation framework established  
 - ✅ Initial metrics and visualization dashboard available  
 
-This repository serves as an **overview**, with detailed research materials provided in accompanying documents.
+### 🔄 In Progress
+
+- 🚧 Multi-Agent Reinforcement Learning (MARL) model design  
+- 🚧 Training framework for decentralized agents  
+- 🚧 Comparative analysis between baseline and adaptive system  
+
+This repository currently focuses on establishing a **robust experimental foundation**, upon which the adaptive AI system is being actively developed.
 
 ---
 
